@@ -8,10 +8,10 @@ Basic Machine Learning models and some data analysis
 
 ## Topics
 
-1. Linear Regression [[link]()]
-2. Logistic Regression [[link]()]
-3. Random Forest [[link]()]
-4. K_Nearest Neighbors [[link]()]
-5. Support Vector Machine [[link]()]
-6. Principal Component Analysis [[link]()]
-7. LightGBM [[link]()]
+1. Linear Regression [[link](https://github.com/ArtKrup/machine-learning-lessons/blob/main/linear_regression.ipynb)]
+2. Logistic Regression [[link](https://github.com/ArtKrup/machine-learning-lessons/blob/main/logistic_regression.ipynb)]
+3. Random Forest [[link](https://github.com/ArtKrup/machine-learning-lessons/blob/main/random_forest.ipynb)]
+4. K_Nearest Neighbors [[link](https://github.com/ArtKrup/machine-learning-lessons/blob/main/k_nearest_neighbors.ipynb)]
+5. Support Vector Machine [[link]([https://github.com/ArtKrup/machine-learning-lessons/blob/main/principal_component_analysis.ipynb](https://github.com/ArtKrup/machine-learning-lessons/blob/main/support_vector_machine.ipynb))]
+6. Principal Component Analysis [[link](https://github.com/ArtKrup/machine-learning-lessons/blob/main/principal_component_analysis.ipynb)]
+
